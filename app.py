@@ -118,5 +118,5 @@ with st.container():
     else:
         st.warning("Please enter a message to classify.")
 
-st.markdown('<p class="info-text">Note: The classification result depends on the accuracy of the trained model. Ensure the model is properly trained for optimal results.</p>', unsafe_allow_html=True)
+st.markdown('<p class="info-text">Thank you for using this website.</p>', unsafe_allow_html=True)
 
