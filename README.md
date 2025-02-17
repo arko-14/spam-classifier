@@ -27,5 +27,23 @@ Spam messages are a pervasive problem in digital communications. This project ai
   - Output layer: A single neuron with Sigmoid activation for binary classification.
 - **Performance**: The model achieved an accuracy of **98.19%** on the test dataset.
 
-## Project Structure
 
+
+## Usage
+
+- **Input**: Open the app in your browser, type or paste a message in the input field.
+- **Classification**: Click the "Classify" button to determine if the message is **Spam** or **Ham**.
+- **Result**: The classification result is displayed prominently on the screen.
+
+## Deployment
+
+This project is deployedon Streamlit(frontend) and deployed on Render
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- Inspired by real-world spam filtering challenges.
+- Built as part of my continuous effort to improve machine learning and deployment skills.
